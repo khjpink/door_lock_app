@@ -13,7 +13,7 @@ Device Manager : Pixel 8 Pro <br>
 인트로<br>
 <img width="394" height="895" alt="image" src="https://github.com/user-attachments/assets/00f2e3d7-5da0-4941-b853-426760675c19" />
 <br><br>
-회원가입, 구글인증, 로그인 <br>
+파이어베이스 사용자 인증 기능 으로 회원가입(이메일 인증), 구글인증, 로그인 구현 <br>
 <img width="405" height="900" alt="image" src="https://github.com/user-attachments/assets/cae69222-af3e-4dc4-8ec3-cbb135847165" />
 <br><br>
 로그아웃<br>
